@@ -1,0 +1,14 @@
+{
+    "editor.formatOnSave": true,
+    "window.title": "${activeEditorLong}",
+    "window.zoomLevel": 0,
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "workbench.fontAliasing": "antialiased",
+    "explorer.confirmDelete": false
+}
